@@ -1,0 +1,35 @@
+.para{
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.image{
+    background-color: rgb(253, 245, 235);
+}
+
+.context{
+    font-size: 14px;
+}
+
+/* Do not style the <ol> or <li> inside the <p> */
+.para ol {
+    font-weight: normal;
+    margin: 0;
+    padding-left: 20px; /* For example, give padding to the ordered list */
+    font-size: 15px;
+}
+
+.para li {
+    font-weight: normal;
+    font-size: 14px; /* Keep the default font size for list items or customize */
+    line-height: 1.5; /* You can change the line-height of list items */
+    font-size: 15px;
+}
+
+
+.para span {
+    font-weight: normal;
+    font-size: 14px; /* Keep the default font size for list items or customize */
+    line-height: 1.5; /* You can change the line-height of list items */
+    font-size: 15px;
+}

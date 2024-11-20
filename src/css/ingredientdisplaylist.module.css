@@ -1,0 +1,11 @@
+.ingredientItem{
+    display: flex;
+    justify-content: space-between;
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 10px 0;
+    font-size: 20px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    height: 100px;
+    margin-bottom: 20px;
+}
